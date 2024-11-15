@@ -1,2 +1,8 @@
 {
+    "TECHNIGHT_SESSIONS": {
+        "target": {
+            "schema": "TECHNIGHT",
+            "object": "SESSIONSVIEW"
+        }
+    }
 }

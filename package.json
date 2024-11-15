@@ -6,12 +6,12 @@
 	"license": "UNLICENSED",
 	"private": true,
 	"dependencies": {
-		"@cap-js-community/odata-v2-adapter": "^1.13.1",
+		"@cap-js-community/odata-v2-adapter": "^1.13.7",
 		"@sap/cds": "^8",
-		"@sap/cds-dk": "^8.1.0",
+		"@sap/cds-dk": "^8.4.1",
 		"@sap/xssec": "^4",
 		"express": "^4",
-		"hdb": "^0.19.8",
+		"hdb": "^0.19.10",
 		"passport": "^0"
 	},
 	"devDependencies": {
@@ -58,10 +58,10 @@
 			"auth": {
 				"kind": "basic",
 				"users": {
-					"tester@flexso.com": {
-						"password": "initial",
+					"technight@flexso.com": {
+						"password": "technight",
 						"roles": [
-							"FieldTechnician"
+							"TechNight"
 						]
 					},
 					"*": false

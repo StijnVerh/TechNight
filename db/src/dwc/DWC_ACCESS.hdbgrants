@@ -5,6 +5,11 @@
 			"container_roles": [],
 			"object_privileges": [
                 {
+					"type": "VIEW",
+					"name": "SESSIONSVIEW",
+					"privileges_with_grant_option": [
+						"SELECT"
+					]
 				}
 			]
 		}

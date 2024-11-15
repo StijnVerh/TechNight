@@ -25,7 +25,7 @@ modules:
           srv-url: ${default-url}
     requires:
       - name: technight-cap-datasphere-db
-      # - name: ups-technight-cap-datasphere
+      - name: ups-technight-cap-datasphere
   # --------------------- DB MODULE ------------------------
   - name: technight-cap-datasphere-db-deployer
     # --------------------------------------------------------
@@ -35,7 +35,7 @@ modules:
       buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#v1.8.15
     requires:
       - name: technight-cap-datasphere-db
-      # - name: ups-technight-cap-datasphere
+      - name: ups-technight-cap-datasphere
 resources:
   - name: technight-cap-datasphere-db
     type: com.sap.xs.hdi-container
@@ -44,12 +44,12 @@ resources:
       service-plan: hdi-shared
       config:
         database_id: 0a73e6dd-5215-4dc9-9d84-bdba369785f2
-        schema: technight
+        schema: technight_cap_container
     properties:
       hdi-container-name: "${service-name}"
-  # - name: ups-technight-cap-datasphere
-  #   type: org.cloudfoundry.existing-service
-  #   parameters:
-  #     service-name: ups-technight-cap-datasphere
-  #   properties:
-  #     the-service-name: "${service-name}"
+  - name: ups-technight-cap-datasphere
+    type: org.cloudfoundry.existing-service
+    parameters:
+      service-name: ups-technight-cap-datasphere
+    properties:
+      the-service-name: "${service-name}"

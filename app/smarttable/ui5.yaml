@@ -26,5 +26,5 @@ server:
       afterMiddleware: compression
       configuration:
         backend:
-          - path: /odata/v2/cap-datasphere-hdi
+          - path: /odata/v2/technight
             url: http://localhost:4004
