@@ -1,0 +1,35 @@
+<mvc:View controllerName="com.flexso.cap.dsp.hdi.controller.Initial"
+    displayBlock="true"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:core="sap.ui.core"
+    core:require="{
+		formatter: 'com/flexso/cap/dsp/hdi/model/formatter'
+	}">
+    <Page title="{i18n>appTitle}"
+        id="initialPageID"
+        busy="false"
+        busyIndicatorDelay="0">
+        <content>
+            <IllustratedMessage title="{i18n>initialViewIllustratedMessageTitle}"
+                illustrationType="sapIllus-NoColumnsSet"
+                enableVerticalResponsiveness="true"
+                description="{i18n>initialViewIllustratedMessageDescription}">
+                <additionalContent>
+                    <VBox>
+                        <ComboBox id="entitySetCombobox"
+                            items="{entitySetModel>/entitySets}"
+                            selectedKey="{entitySetModel>/selectedEntitySet}"
+                            width="auto">
+                            <core:Item key="{entitySetModel>name}"
+                                text="{entitySetModel>name}" />
+                        </ComboBox>
+                        <Button text="{i18n>go}"
+                            press="goToEntityTable"
+                            type="Emphasized" />
+                    </VBox>
+                </additionalContent>
+            </IllustratedMessage>
+        </content>
+    </Page>
+</mvc:View>

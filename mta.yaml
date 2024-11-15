@@ -1,0 +1,55 @@
+_schema-version: "3.1"
+ID: technight-cap-datasphere
+version: 1.0.0
+description: "CAP project which connects to Datasphere by use of a HDI container."
+parameters:
+  enable-parallel-deployments: true
+build-parameters:
+  before-all:
+    - builder: custom
+      commands:
+        - npx -p @sap/cds-dk cds build --production
+modules:
+  # --------------------- SERVER MODULE ------------------------
+  - name: technight-cap-datasphere-srv
+    # --------------------- --------------------------------------
+    type: nodejs
+    path: gen/srv
+    parameters:
+      buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#v1.8.15
+    build-parameters:
+      builder: npm-ci
+    provides:
+      - name: srv-api # required by consumers of CAP services (e.g. approuter)
+        properties:
+          srv-url: ${default-url}
+    requires:
+      - name: technight-cap-datasphere-db
+      # - name: ups-technight-cap-datasphere
+  # --------------------- DB MODULE ------------------------
+  - name: technight-cap-datasphere-db-deployer
+    # --------------------------------------------------------
+    type: hdb
+    path: gen/db
+    parameters:
+      buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#v1.8.15
+    requires:
+      - name: technight-cap-datasphere-db
+      # - name: ups-technight-cap-datasphere
+resources:
+  - name: technight-cap-datasphere-db
+    type: com.sap.xs.hdi-container
+    parameters:
+      service: hana
+      service-plan: hdi-shared
+      config:
+        database_id: 0a73e6dd-5215-4dc9-9d84-bdba369785f2
+        schema: technight
+    properties:
+      hdi-container-name: "${service-name}"
+  # - name: ups-technight-cap-datasphere
+  #   type: org.cloudfoundry.existing-service
+  #   parameters:
+  #     service-name: ups-technight-cap-datasphere
+  #   properties:
+  #     the-service-name: "${service-name}"

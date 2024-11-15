@@ -1,0 +1,372 @@
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:02:50.505665] Uploading app package for app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:02:50.708104] Updated app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:06.980122] Stopping app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:07.162002] Cell ff403ec9-3345-41c0-a8ff-01778f981340 stopping instance 29d03518-9787-47eb-47e6-a2a8 (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:07.531691] Creating build for app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:09.049200] Cell 19a48790-ff0a-4b72-8138-7ba3c13a85af creating container for instance fb5986ea-f084-44ec-adb6-fdbdd42952e9 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:09.426809] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:09.483234] Cell 19a48790-ff0a-4b72-8138-7ba3c13a85af successfully created container for instance fb5986ea-f084-44ec-adb6-fdbdd42952e9 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:09.834177] Downloading app package... (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:09.834249] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:11.644669] Downloaded app package (20.5M) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:12.687360] Downloaded build artifacts cache (132.9M) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:16.087#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1148###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:14.969218] -----> Download go 1.19 (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:20.507432] -----> Running go build supply (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:20.507492] /tmp/buildpackdownloads/6a4f6ed7c5691a55 ~ (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:22.147930] ~ (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:22.153087] -----> Nodejs Buildpack version 1.8.15 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:22.621630] -----> Bootstrapping python (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:22.621647] -----> Installing python 3.11.5 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:26.142#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1766###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:22.621740] Copy [/tmp/cache/final/dependencies/b9d85f817df34cc87c79183b612b2cb027f74f6fbacf99c18505d45d4050c61a/python_3.11.5_linux_x64_cflinuxfs4_b4517479.tgz] (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:26.314441] -----> Installing binaries (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:26.314460] engines.node (package.json): 18.x (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:26.314466] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:26.314478] -----> Installing node 18.17.1 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:26.314728] Copy [/tmp/cache/final/dependencies/1d09870e57624309f6fb4442d28351a744ef9ac6c3945903f124d98bb92a576a/node_18.17.1_linux_x64_cflinuxfs4_ed0bbc52.tgz] (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.479755] Using default npm version: 9.6.7 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.479781] -----> Installing yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.406#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.479861] Copy [/tmp/cache/final/dependencies/56cbd9358ec939bd281f885c9938d7264b22d86cefba81164184f6e23e63df82/yarn_1.22.19_linux_noarch_any-stack_32d0e82e.tgz] (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.813369] Installed yarn 1.22.19 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.813516] -----> Creating runtime environment (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815188] NODE_ENV=production (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815202] NODE_HOME=/tmp/contents4130002809/deps/0/node (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815206] NODE_MODULES_CACHE=true (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815208] NODE_VERBOSE=false (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815210] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815213] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815230] -----> Building dependencies (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815241] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:28.815325] Rebuilding any native modules (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.399577] rebuilt dependencies successfully (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.400405] npm notice (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.400472] npm notice New major version of npm available! 9.6.7 -> 10.8.3 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.400575] npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.8.3> (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.400737] npm notice Run `npm install -g npm@10.8.3` to update! (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.400874] npm notice (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:30.415006] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:31.493367] up to date in 841ms (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:31.493594] 50 packages are looking for funding (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:31.493619] run `npm fund` for details (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:36.407#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1790###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:32.646222] -----> Download go 1.19 (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:38.980019] -----> Running go build finalize (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:38.980041] /tmp/buildpackdownloads/6a4f6ed7c5691a55 ~ (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:39.527740] ~ (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:39.610823] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:39.610844] inside Sealights hook (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:46.620#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1857###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:39.610945] service is not configured to run with Sealights (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:03:56.833#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1871###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:56.205683] Exit status 0 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:56.833#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1871###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:56.205725] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:56.833#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1871###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:56.205752] Uploading droplet... (STDOUT, STG)#
+
+#2.0#2024 09 20 11:03:56.833#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1871###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:56.205819] Uploading build artifacts cache... (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:57.377422] Creating droplet for app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:03:58.466440] Uploaded build artifacts cache (132.9M) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:00.452559] Uploaded droplet (61.6M) (STDOUT, STG)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:00.472432] Uploading complete (STDOUT, STG)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:00.832107] Cell 19a48790-ff0a-4b72-8138-7ba3c13a85af stopping instance fb5986ea-f084-44ec-adb6-fdbdd42952e9 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:00.832149] Cell 19a48790-ff0a-4b72-8138-7ba3c13a85af destroying container for instance fb5986ea-f084-44ec-adb6-fdbdd42952e9 (STDOUT, STG)#
+
+#2.0#2024 09 20 11:04:07.039#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-2230###
+[PollStageAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:04.233758] Cell 19a48790-ff0a-4b72-8138-7ba3c13a85af successfully destroyed container for instance fb5986ea-f084-44ec-adb6-fdbdd42952e9 (STDOUT, STG)#
+
+cap-datasphere-hdi-srv.log=#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:07.131152] Updated app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 ({:droplet_guid=>"169c55b2-f631-4cca-bc70-c1eb082af246"}) (STDOUT, API)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:07.415268] Creating revision for app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:07.445145] Starting app with guid f89e6556-4279-4b08-827b-bfedd4cdd390 (STDOUT, API)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:08.793017] Cell 92246be2-0c7e-458f-b2d3-ffc8ad23076e creating container for instance 5923d233-863b-4e26-4471-0c74 (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:09.179153] Security group rules were updated (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:09.234550] Cell 92246be2-0c7e-458f-b2d3-ffc8ad23076e successfully created container for instance 5923d233-863b-4e26-4471-0c74 (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:09.658428] Downloading droplet... (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.269535] Downloaded droplet (61.6M) (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.269643] Starting health monitoring of container (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.326768] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.489435] Cell ff403ec9-3345-41c0-a8ff-01778f981340 destroying container for instance 29d03518-9787-47eb-47e6-a2a8 (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.656682] Invoking start command. (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:13.704077] Exit status 137 (STDOUT, PROXY)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.044690] > CapDatasphereHdi@1.0.0 start (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.044715] > cds run (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.462393] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.461Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"loaded model from 1 file(s):\n","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.462822] srv/csn.json (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.684616] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.682Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"connect to db > hana {\n  database_id: 'a1366a0d-3aa2-4ea9-a8a9-78847e9bbac7',\n  host: 'a1366a0d-3aa2-4ea9-a8a9-78847e9bbac7.hna1.prod-eu10.hanacloud.ondemand.com',\n  port: '443',\n  driver: 'com.sap.db.jdbc.Driver',\n  url: 'jdbc:sap://a1366a0d-3aa2-4ea9-a8a9-78847e9bbac7.hna1.prod-eu10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=CAP_DSP_HDI_FLEXSO',\n  schema: 'CAP_DSP_HDI_FLEXSO',\n  certificate: '...',\n  hdi_user: 'CAP_DSP_HDI_FLEXSO_B4DGWT2OD1N5132RG5ULB41LJ_DT',\n  hdi_password: '...',\n  user: 'CAP_DSP_HDI_FLEXSO_B4DGWT2OD1N5132RG5ULB41LJ_RT',\n  password: '...'\n}","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.710144] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.709Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"using auth strategy { kind: 'basic', impl: 'node_modules/@sap/cds/lib/auth/basic-auth' } \n","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.712278] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.712Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"using new OData adapter","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.724432] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.724Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"serving CapDatasphereHdiService { path: '/odata/v4/cap-datasphere-hdi' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.730710] {"level":"info","logger":"cds","timestamp":"2024-09-20T11:04:14.730Z","layer":"cds","component_type":"application","container_id":"10.0.201.35","component_id":"f89e6556-4279-4b08-827b-bfedd4cdd390","component_name":"cap-datasphere-hdi-srv","component_instance":0,"source_instance":0,"organization_name":"biofirst-dev","organization_id":"07f600ad-f265-4775-b165-9c20dad0f058","space_name":"biospace","space_id":"fa6f49ee-15a2-4623-bfb8-3c90af6c560b","msg":"server listening on { url: 'http://localhost:8080' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:14.731041] [cds] - launched at 9/20/2024, 11:04:14 AM, version: 8.1.0, in: 443.094ms (STDOUT, APP/PROC/WEB)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:15.741274] Cell ff403ec9-3345-41c0-a8ff-01778f981340 successfully destroyed container for instance 29d03518-9787-47eb-47e6-a2a8 (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:16.179481] Container became healthy (STDOUT, CELL)#
+
+#2.0#2024 09 20 11:04:17.873#Z#DEBUG#com.sap.cloud.lm.sl.xs2.d27b5e50-773f-11ef-8af0-eeee0a8aefd6.cap-datasphere-hdi-srv.startAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLoggerProvider########flowable-async-job-executor-thread-1317###
+[PollStartAppStatusExecution] [cap-datasphere-hdi-srv] f89e6556-4279-4b08-827b-bfedd4cdd390 [2024-09-20T11:04:16.205898] Process became ready with guid f89e6556-4279-4b08-827b-bfedd4cdd390 payload: {"instance"=>"5923d233-863b-4e26-4471-0c74", "index"=>0, "cell_id"=>"92246be2-0c7e-458f-b2d3-ffc8ad23076e", "ready"=>true, "version"=>"6335f66d-39f5-4c27-bb7d-4c104dbe7bf0"} (STDOUT, API)#
+

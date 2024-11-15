@@ -1,0 +1,41 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"name": "Serve Frontend",
+			"request": "launch",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run"],
+			"args": ["start"],
+			"cwd": "${workspaceFolder}/app/smarttable",
+			"restart": true,
+			"console": "integratedTerminal"
+		},
+		{
+			"type": "node",
+			"name": "Start Server",
+			"request": "launch",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run"],
+			"args": ["start"],
+			"cwd": "${workspaceFolder}",
+			"restart": true,
+			"console": "integratedTerminal"
+		},
+		{
+			"type": "node",
+			"name": "Start Server Hybrid",
+			"request": "launch",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run"],
+			"args": ["start:hybrid"],
+			"cwd": "${workspaceFolder}",
+			"restart": true,
+			"console": "integratedTerminal"
+		}
+	]
+}

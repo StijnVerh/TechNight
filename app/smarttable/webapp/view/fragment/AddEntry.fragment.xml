@@ -1,0 +1,39 @@
+<core:FragmentDefinition xmlns:mvc="sap.ui.core.mvc"
+    xmlns:f="sap.ui.layout.form"
+    xmlns:core="sap.ui.core"
+    xmlns:l="sap.ui.layout"
+    xmlns="sap.m"
+    xmlns:smartform="sap.ui.comp.smartform"
+    xmlns:smartfield="sap.ui.comp.smartfield">
+    <Dialog id="NewParticipantDialog"
+        title="{i18n>addItem}"
+        draggable="false"
+        resizable="false"
+        busyIndicatorDelay="0"
+        class="sapUiContentPadding"
+        busy="false">
+        <content>
+            <!-- <smartform:SmartForm id="addEntrySmartFormID" editTogglable="false" editable="true" validationMode="Async">
+                <smartform:Group id="_IDGenGroup1">
+                    <smartform:GroupElement id="_IDGenGroupElement1">
+                        <smartfield:SmartField id="_IDGenSmartField1" value="{UNIT_MIX}" />
+                    </smartform:GroupElement>
+                </smartform:Group>
+            </smartform:SmartForm> -->
+        </content>
+        <footer>
+            <OverflowToolbar >
+                <ToolbarSpacer />
+                <Button id="_IDGenButton2"
+                    text="{i18n>save}"
+                    type="Emphasized"
+                    press="onSave" />
+                <Button id="_IDGenButton4"
+                    text="{i18n>cancel}"
+                    type="Transparent"
+                    press="onCancel" />
+            </OverflowToolbar>
+        </footer>
+
+    </Dialog>
+</core:FragmentDefinition>

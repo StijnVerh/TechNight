@@ -1,0 +1,12 @@
+{
+	"ups-technight-cap-datasphere": {
+		"object_owner": {
+			"roles": [],
+			"container_roles": [],
+			"object_privileges": [
+                {
+				}
+			]
+		}
+	}
+}
