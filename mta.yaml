@@ -26,6 +26,7 @@ modules:
     requires:
       - name: technight-cap-datasphere-db
       - name: ups-technight-cap-datasphere
+      - name: technight-cap-datasphere-auth
   # --------------------- DB MODULE ------------------------
   - name: technight-cap-datasphere-db-deployer
     # --------------------------------------------------------
@@ -36,6 +37,22 @@ modules:
     requires:
       - name: technight-cap-datasphere-db
       - name: ups-technight-cap-datasphere
+
+  - name: technight-cap-datasphere
+    type: approuter.nodejs
+    path: app/router
+    parameters:
+      keep-existing-routes: true
+      disk-quota: 256M
+      memory: 256M
+    requires:
+      - name: srv-api
+        group: destinations
+        properties:
+          name: srv-api # must be used in xs-app.json as well
+          url: ~{srv-url}
+          forwardAuthToken: true
+      - name: technight-cap-datasphere-auth
 resources:
   - name: technight-cap-datasphere-db
     type: com.sap.xs.hdi-container
@@ -53,3 +70,12 @@ resources:
       service-name: ups-technight-cap-datasphere
     properties:
       the-service-name: "${service-name}"
+  - name: technight-cap-datasphere-auth
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: xsuaa
+      service-plan: application
+      path: ./xs-security.json
+      config:
+        xsappname: technight-cap-datasphere-${org}-${space}
+        tenant-mode: dedicated
