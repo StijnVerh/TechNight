@@ -42,6 +42,8 @@
 		"typescript": "^5.5.4",
 		"ui5-middleware-livereload": "^3.0.3",
 		"ui5-tooling-transpile": "^3.4.7",
-		"wdio-ui5-service": "^2.0.9"
+		"wdio-ui5-service": "^2.0.9",
+		"ui5-task-zipper": "^3.0.4",
+		"@sap/ui5-builder-webide-extension": "1.1.8"
 	}
 }

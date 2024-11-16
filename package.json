@@ -57,7 +57,7 @@
 				"kind": "hana-cloud"
 			},
 			"auth": {
-				"kind": "xsuaa",
+				"kind": "basic",
 				"users": {
 					"technight@flexso.com": {
 						"password": "technight",

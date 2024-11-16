@@ -106,7 +106,8 @@ export default class Main extends BaseController {
 						let key: { name: string }[] = oModel.getServiceMetadata().dataServices.schema[0].entityType.find(entityType => entityType.name === this.entitySet).key.propertyRef;
 						if (key?.length === 1) {
 							let id = item.getBindingContext().getProperty(key[0].name);
-							oModel.remove(`/${this.entitySet}('${id}')`, { success: () => { oModel.refresh(true); } });
+							// only implemented if key is a number
+							oModel.remove(`/${this.entitySet}(${id})`, { success: () => { oModel.refresh(true); } });
 						}
 					})
 				}
